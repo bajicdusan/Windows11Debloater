@@ -9,4 +9,4 @@ Set-ExecutionPolicy RemoteSigned
 Run Windows11Debloater.ps1 script by right clicking and selecting 'Run with PowerShell'
 
 If you want to edit (add or remove) programs list edit Windows11Debloater.ps1 file with notepad.
-You can get list of programs by running 'winget list' in PowerShell.
+You can get list of programs by running 'winget list' in PowerShell. Make sure to copy name of the program.
