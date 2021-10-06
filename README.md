@@ -1,4 +1,4 @@
-# Windows11Debloater
+# Windows 11 Debloater
 
 Make sure that you have installed App Installer from Windows Store. https://www.microsoft.com/store/productId/9NBLGGH4NNS1
 
