@@ -5,7 +5,6 @@ $programs = @(
 "Cortana",
 "Microsoft News",
 "MSN Weather",
-"App Installer",
 "Xbox",
 "Get Help",
 "Microsoft Tips",
@@ -45,6 +44,7 @@ $programs = @(
 "Windows Web Experience Pack",
 "Microsoft OneDrive",
 "Mail and Calendar"
+# "App Installer",
 # "Microsoft Store",
 # "Windows Terminal",
 # "Windows Package Manager Source (winget)",
