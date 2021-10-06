@@ -33,9 +33,6 @@ $programs = @(
 "Windows Maps",
 "Windows Notepad",
 "Windows Voice Recorder",
-# "Microsoft Store",
-# "Windows Terminal",
-# "Windows Package Manager Source (winget)",
 "Xbox TCUI ",
 "Xbox Game Bar Plugin",
 "Xbox Game Bar ",
@@ -48,10 +45,13 @@ $programs = @(
 "Windows Web Experience Pack",
 "Microsoft OneDrive",
 "Mail and Calendar"
+# "Microsoft Store",
+# "Windows Terminal",
+# "Windows Package Manager Source (winget)",
 )
 
 foreach ($i in $programs) {
     $command = `winget uninstall "$i"`
-
-    Write-Output $command
+    
+    $command
 }
