@@ -32,8 +32,6 @@ $programs = @(
 "Windows Web Experience Pack",
 "Microsoft OneDrive",
 "Mail and Calendar"
-# "HEIF Image Extensions",
-# "Microsoft Sticky Notes",
 # "Paint",
 # "Power Automate",
 # "Snipping Tool",
@@ -44,6 +42,8 @@ $programs = @(
 # "Windows Calculator",
 # "Windows Notepad",
 # "Groove Music",
+# "Microsoft Sticky Notes",
+# "HEIF Image Extensions",
 # "App Installer",
 # "Microsoft Store",
 # "Windows Terminal",
